@@ -251,7 +251,7 @@ public class PaintApp extends JFrame {
 
         // Add controls to control panel
         controlPanel.add(colorButton);
-        controlPanel.add(new JLabel("Size:"));
+        controlPanel.add(new JLabel("Stroke size:", SwingConstants.RIGHT));
         controlPanel.add(sizeComboBox);
         controlPanel.add(clearButton);
         controlPanel.add(saveButton);
