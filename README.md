@@ -39,8 +39,8 @@ The app uses:
 
 ## 🚀 How to Run
 1. **Clone this repository**
-   <pre> git clone https://github.com/yourusername/java-paint-app.git
-   cd java-paint-app
+   <pre> git clone https://github.com/akankshavm22/Java-Paint-App.git
+   cd java-paint-app/src
    </pre>
 
 2. Compile the Java file
